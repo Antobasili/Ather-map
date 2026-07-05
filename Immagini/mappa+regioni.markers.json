@@ -1,0 +1,50 @@
+{
+  "size": {
+    "w": 1588,
+    "h": 1230
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Mappa",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_3fcnqu",
+      "name": "Città",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_y04fo4",
+      "name": "Regni",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "Immagini/mappa+regioni.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Immagini/mappa+regioni.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

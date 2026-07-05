@@ -1,0 +1,44 @@
+{
+  "size": {
+    "w": 2048,
+    "h": 1536
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Mappa",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_v197xp",
+      "name": "Città",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "Immagini/HImitsu.jpg"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Immagini/HImitsu.jpg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
