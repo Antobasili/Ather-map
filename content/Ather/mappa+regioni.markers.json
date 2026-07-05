@@ -1,0 +1,56 @@
+{
+  "size": {
+    "w": 1588,
+    "h": 1230
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Regni",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_ccj6d0",
+      "name": "Città",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_sf9ni0",
+      "x": 0.2862628184184731,
+      "y": 0.3715196783472801,
+      "layer": "default",
+      "link": "Himitsu",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "iconColor": "#f04800"
+    }
+  ],
+  "bases": [
+    {
+      "path": "mappa+regioni.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "mappa+regioni.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

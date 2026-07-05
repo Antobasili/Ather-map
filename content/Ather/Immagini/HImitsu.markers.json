@@ -1,0 +1,87 @@
+{
+  "size": {
+    "w": 2048,
+    "h": 1536
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Mappa",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_yh7vyi",
+      "name": "Città",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_21am2m",
+      "x": 0.832813921307418,
+      "y": 0.7998761661383784,
+      "layer": "default",
+      "link": "Zveys",
+      "iconKey": "pinBlue",
+      "tooltip": "Zveys",
+      "iconColor": "#ff8800",
+      "sizeOverride": 35,
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_8foeuq",
+      "x": 0.7880310451143069,
+      "y": 0.6934494524723641,
+      "layer": "layer_yh7vyi",
+      "link": "Hichiba",
+      "iconKey": "pinBlue",
+      "tooltip": "Hichiba",
+      "sizeOverride": 35,
+      "iconColor": "#ff8800",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_t6ybj7",
+      "x": 0.8033679013558916,
+      "y": 0.5361571550143469,
+      "layer": "default",
+      "link": "Dohamora",
+      "iconKey": "pinBlue",
+      "tooltip": "Dohamora",
+      "iconColor": "#ff8800",
+      "tooltipLabelPosition": "below",
+      "tooltipLabelAlways": true,
+      "sizeOverride": 35
+    }
+  ],
+  "bases": [
+    {
+      "path": "Immagini/HImitsu.jpg"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Immagini/HImitsu.jpg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
