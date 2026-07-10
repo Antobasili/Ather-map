@@ -8,6 +8,19 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: antobasili.github.io/Ather-map
+  additionalHead: |
+    <style>
+      svg.graph-svg line, svg.graph-svg path.link {
+        stroke: #8a8a8a !important;
+        opacity: 0.5 !important;
+        stroke-opacity: 0.5 !important;
+      }
+      svg.graph-svg line.active, svg.graph-svg path.link.active {
+        stroke: #284b63 !important;
+        opacity: 1 !important;
+        stroke-opacity: 1 !important;
+      }
+    </style>
   ignorePatterns:
     - private
     - templates
