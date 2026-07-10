@@ -1,10 +1,31 @@
 @use "./variables.scss" as *;
 
+@use "./variables.scss" as *;
+
+/* 1. Linee del grafico a riposo (sempre visibili) */
 .graph-outer {
   svg {
     line {
       stroke: #b0b0b0 !important;
       opacity: 0.4 !important;
     }
+  }
+}
+
+/* 2. Linee del grafico quando passi sopra con il cursore (attive) */
+.graph-outer {
+  svg {
+    line.active {
+      stroke: #e002bb !important; /* Sostituisci con il colore che preferisci */
+      opacity: 1.0 !important;
+    }
+  }
+}
+
+/* 3. Colore delle palline dei TAG (ex viola) */
+g.graph {
+  circle.tag {
+    fill: #4ed6b4 !important;   /* Colore interno del pallino */
+    stroke: #5bd4b6 !important; /* Colore del bordo del pallino */
   }
 }
