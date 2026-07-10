@@ -11,7 +11,7 @@
       "locked": false
     },
     {
-      "id": "layer_efq8sf",
+      "id": "layer_ccj6d0",
       "name": "Città",
       "visible": true,
       "locked": false
@@ -20,36 +20,23 @@
   "markers": [
     {
       "type": "pin",
-      "id": "marker_2lbyot",
-      "x": 0.29329542699956784,
-      "y": 0.39006929916317984,
+      "id": "marker_sf9ni0",
+      "x": 0.2862628184184731,
+      "y": 0.3715196783472801,
       "layer": "default",
       "link": "Himitsu",
       "iconKey": "pinRed",
       "tooltip": "",
-      "iconColor": "#f53d00",
-      "sizeOverride": 1
-    },
-    {
-      "type": "pin",
-      "id": "marker_c2ouga",
-      "x": 0.2738504263145136,
-      "y": 0.32678753096422924,
-      "layer": "default",
-      "link": "Himitsu",
-      "iconKey": "pinRed",
-      "tooltip": "",
-      "sizeOverride": 50,
-      "iconColor": "#ff2600"
+      "iconColor": "#f04800"
     }
   ],
   "bases": [
     {
-      "path": "Immagini/mappa+regioni.png"
+      "path": "mappa+regioni.png"
     }
   ],
   "overlays": [],
-  "activeBase": "Immagini/mappa+regioni.png",
+  "activeBase": "mappa+regioni.png",
   "measurement": {
     "scales": {},
     "customUnitPxPerUnit": {},
@@ -57,6 +44,7 @@
     "travelDaysEnabled": false,
     "displayUnit": "km"
   },
+  "pinSizeOverrides": {},
   "grids": [],
   "panClamp": true,
   "drawLayers": [],
@@ -64,6 +52,5 @@
   "secondScreen": {
     "showGrids": true
   },
-  "textLayers": [],
-  "pinSizeOverrides": {}
+  "textLayers": []
 }
