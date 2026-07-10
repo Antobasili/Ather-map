@@ -32,7 +32,7 @@ configuration:
         textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
-        lightgray: "#393639"
+        lightgray: "#e5e5e5"
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
