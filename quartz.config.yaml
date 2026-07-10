@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Ather.github.io
+  baseUrl: antobasili.github.io/Ather-map
   ignorePatterns:
     - private
     - templates
