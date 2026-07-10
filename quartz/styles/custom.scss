@@ -1,17 +1,10 @@
 @use "./variables.scss" as *;
 
-g.graph {
-  line {
-    stroke: var(--lightgray) !important;
-    opacity: 0.4 !important; /* Forza le linee a essere visibili al 40% anche a riposo */
-  }
-}
-
-.graph-outer, .graph-view, g.graph {
-  line, .link, path {
-    stroke: var(--lightgray) !important;
-    opacity: 0.5 !important;
-    stroke-opacity: 0.5 !important;
-    visibility: visible !important;
+.graph-outer {
+  svg {
+    line {
+      stroke: #b0b0b0 !important;
+      opacity: 0.4 !important;
+    }
   }
 }
