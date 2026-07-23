@@ -312,3 +312,5 @@ layout:
         right: []
     canvas: {}
     bases: {}
+    - source: github:quartz-community/obsidian-plugin-leaflet
+    enabled: true
