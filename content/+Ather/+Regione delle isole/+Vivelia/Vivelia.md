@@ -5,7 +5,7 @@ tags:
 ---
 - Gerarchia: A comandare il tutto è il sovrano Chelob, che consente ai suoi feudatari di vivere nella parte alta della città, questi a loro volta fanno lavorare i produttori per conto loro.
 - Esercito: Corpo di guardia composto anche da una componente navale, gestito dal nobile Dufan.
-- Religione: Sono presenti due chiese, una nella parte alta e una nella parte bassa, entrambe dedicate al culto del [[Sole]].
+- Religione: Sono presenti due chiese, una nella parte alta e una nella parte bassa, entrambe dedicate al culto del [[../../Sole]].
 - Flora e fauna: Tipici della zona sono i [[Salmone drago]], le [[Anguille rosa]] ma anche i depositi di argilla e l'[[Algamadre]].
 - Clima: Normale.
 - Festività: [[Festa dell'abbondanza]].

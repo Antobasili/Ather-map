@@ -5,7 +5,7 @@ tags:
 ---
 - Gerarchia: a capo vi è  [[Han]], che controlla la [[Gilda dei mercanti]] i quali hanno il monopolio del mercato della città.
 - Esercito: La Yakuza è una guardia speciale dedicata a controllare i mercanti. Vi è poi la "Guardia del popolo" che si occupa di gestire e proteggere la [[Gilda dei mercanti]].
-- Religione: Vi è solo una chiesa ed è dedicata all' [[Albero]].
+- Religione: Vi è solo una chiesa ed è dedicata all' [[../../Albero]].
 - Flora e fauna: Tipici della città sono le [[Karpoi]] e la [[Quercia bianca]], oltre a pietre rare come la giada, lo zaffiro e il topazio.
 - Clima: Normale.
 - Festività: A metà estate si festeggia il [[Festival della purezza]]
