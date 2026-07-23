@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: "Playwrite New Zealand Guides"
-      body: "Cinzel Decorative"
+      header: "Cinzel Decorative"
+      body: "Macondo"
       code: IBM Plex Mono
     colors:
       lightMode:
