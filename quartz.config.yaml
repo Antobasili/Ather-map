@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Playwrite New Zealand Guides
-      body: Griffy
+      body: Cinzel Decorative
       code: IBM Plex Mono
     colors:
       lightMode:
