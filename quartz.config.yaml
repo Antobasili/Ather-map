@@ -177,9 +177,6 @@ plugins:
         centerForce: 0.15
         linkDistance: 277
         enableRadial?: false 
-    layout:
-      position: right
-      priority: 10
   - source: github:quartz-community/search
     enabled: true
     layout:
