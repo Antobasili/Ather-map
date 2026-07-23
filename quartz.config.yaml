@@ -18,7 +18,7 @@ configuration:
     typography:
       header: Playwrite New Zealand Guides
       body: Source Sans Pro
-      code: IBM Plex Mono
+      code: Griffy
     colors:
       lightMode:
         light: "#03fc20"
