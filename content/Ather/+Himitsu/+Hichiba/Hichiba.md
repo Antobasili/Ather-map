@@ -10,4 +10,4 @@ tags:
 - Clima: Normale.
 - Festività: A metà estate si festeggia il [[Festival della purezza]]
 
-Hichiba è una città a sud-est di [[Himitsu]] dal clima normale. Le strade sono semplici e battute, le case sono in terracotta con tetti blu e marroni. Si sente costantemente urlare a causa dei vari mercati nella piazza, che spargono però nell’aria un forte odore di spezie miste mischiate con la polvere della terra. 
+Hichiba è una città a sud-est di [[../Himitsu]] dal clima normale. Le strade sono semplici e battute, le case sono in terracotta con tetti blu e marroni. Si sente costantemente urlare a causa dei vari mercati nella piazza, che spargono però nell’aria un forte odore di spezie miste mischiate con la polvere della terra. 

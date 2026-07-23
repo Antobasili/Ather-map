@@ -18,4 +18,4 @@ render: dom
 id: map-mr3n7wkw
 ```
 
-Collegamenti: [[Himitsu]] [[Regione delle Isole]]
+Collegamenti: [[+Himitsu/Himitsu]] [[+Regione delle isole/Regione delle Isole]]

@@ -5,4 +5,4 @@ tags:
 ---
 Ciurma pirata basata sul circo itinerante. Essa è capitanata da [[Barnaba]], ha come musicista [[Trippo]], vi è la domatrice di [[Legnopus]] Xandra e tanti altri membri.
 
-Collegamenti: [[Regione delle Isole]]
+Collegamenti: [[../Regione delle Isole]]
