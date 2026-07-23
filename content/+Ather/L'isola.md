@@ -14,7 +14,33 @@ mapCalc1: 0.09328358208955223
 > How Many Pixels In Scale: `INPUT[number:scale_pixels]`  
 > How Many Units in Scale: `INPUT[number:scale_pixels_range]`  
 > Scale: `VIEW[1/({scale_pixels}/{scale_pixels_range})][math:mapCalc1]`
+<!-- Importa la libreria Leaflet CSS e JS -->
 
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div id="HimitsuMap" style="width: 95%; height: 800px; border-radius: 8px;"></div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Definizione delle dimensioni dell'immagine
+    var h = 1536, w = 2048;
+    
+    // Inizializzazione della mappa per immagini 2D (Simple CRS)
+    var map = L.map('HimitsuMap', {
+      crs: L.CRS.Simple,
+      minZoom: -1.5,
+      maxZoom: 1,
+      zoomSnap: 0.5
+    });
+
+    var bounds = [[0, 0], [h, w]];
+    // Inserisci qui il percorso corretto della tua immagine su Quartz
+    var image = L.imageOverlay('./HImitsu.jpg', bounds).addTo(map);
+
+    map.fitBounds(bounds);
+  });
+</script>
 
 ```leaflet  
 id: HimitsuMap ### Must be unique with no spaces  
