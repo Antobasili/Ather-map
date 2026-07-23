@@ -280,6 +280,8 @@ plugins:
     enabled: false
     options:
       theme: default
+  - source: github:quartz-community/obsidian-plugin-leaflet
+    enabled: true
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
@@ -312,5 +314,4 @@ layout:
         right: []
     canvas: {}
     bases: {}
-    - source: github:quartz-community/obsidian-plugin-leaflet
-    enabled: true
+   
