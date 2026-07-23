@@ -280,7 +280,9 @@ plugins:
     enabled: false
     options:
       theme: default
-  - source: github:quartz-community/obsidian-plugin-leaflet
+  - source: github:quartz-community/ttrpg-tools-maps
+    enabled: true
+  - source: github:quartz-community/leaflet
     enabled: true
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
