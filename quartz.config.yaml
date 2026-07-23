@@ -11,14 +11,14 @@ configuration:
   ignorePatterns:
     - private
     - templates
-    #- .obsidian
+    - .obsidian
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
       header: Playwrite New Zealand Guides
-      body: Source Sans Pro
-      code: Griffy
+      body: Griffy
+      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#03fc20"
